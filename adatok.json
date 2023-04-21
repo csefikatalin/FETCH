@@ -1,0 +1,34 @@
+{
+  "adatLista": [
+    {
+      "id": 1,
+      "nev": "Dézi",
+      "kor": 14,
+      "fajta": "keverék"
+    },
+    {
+      "id": 3,
+      "nev": "Bodri",
+      "kor": 10,
+      "fajta": "puli"
+    },
+    {
+      "id": 4,
+      "nev": "Daci",
+      "kor": 7,
+      "fajta": "keverék"
+    },
+    {
+      "nev": "Kutyi",
+      "kor": 2,
+      "fajta": "keverék",
+      "id": 6
+    },
+    {
+      "nev": "Kutyi",
+      "kor": 2,
+      "fajta": "keverék",
+      "id": 7
+    }
+  ]
+}
